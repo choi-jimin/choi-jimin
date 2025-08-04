@@ -24,3 +24,11 @@
 - [🚆 **Tripture**](https://github.com/photo-challenger): 여행을 기록하고 포인트를 얻는 트래블 앱테크 서비스 (BE & FE) <br>
 - [🥔 **SPROUTED POTATO**](https://github.com/choi-jimin/sprouted-potato-backend): 유저 기반 도서 평가 사이트 (BE & FE)
 
+<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=choi-jimin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/choi-jimin"
+  width="600"
+  height="300"
+/>
+</a>
